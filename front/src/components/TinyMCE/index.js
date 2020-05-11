@@ -5,7 +5,7 @@ export default function TinyMCE(props) {
   return (
     <Editor 
     { ...props }
-    apiKey="e6uurm282e6ku6dvghtamo23y5e88j186o5pmwow68c7p2dt"
+    apiKey=""
     init={{
       plugins: 'print preview paste importcss searchreplace autolink autosave save directionality code visualblocks visualchars fullscreen link template codesample table charmap hr pagebreak nonbreaking anchor toc insertdatetime advlist lists wordcount  textpattern noneditable help charmap quickbars emoticons',
       menubar: false,
