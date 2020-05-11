@@ -7,8 +7,8 @@ module.exports = {
     connection: {
       host: 'localhost',
       database: 'notepad',
-      user:     'root',
-      password: '12345'
+      user:     '',
+      password: ''
     },
 
     migrations: {
